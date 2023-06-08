@@ -1,2 +1,3 @@
-#This is a Readme file
+Readme file for the project
+This is a Readme file
 This project description .....
